@@ -1,1 +1,1 @@
-# cdnur
+# StaticPaths
